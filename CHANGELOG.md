@@ -3,6 +3,24 @@
 This project follows [semver 2.0.0][1] and the recommendations
 of [keepachangelog.com][2].
 
+## 0.2.0 (2017-03-10)
+
+Breaking changes:
+
+- None
+
+Added:
+
+- None
+
+Fixed:
+
+- None
+
+Deprecated:
+
+- Please use [libyear-bundler][3] instead
+
 ## 0.1.3 (2017-03-07)
 
 Breaking changes:
@@ -52,3 +70,4 @@ Initial version. Proof of concept.
 
 [1]: http://semver.org/spec/v2.0.0.html
 [2]: http://keepachangelog.com/
+[3]: https://rubygems.org/gems/libyear-bundler
